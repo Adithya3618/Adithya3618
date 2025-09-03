@@ -69,9 +69,7 @@
 ### 🧠 Large Language Models (LLMs)
 <p align="left">
   <img src="https://img.shields.io/badge/GPT-005571?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLaMA-FF4500?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/T5-00BFFF?style=for-the-badge&logo=google&logoColor=white"/>
+
 </p>
 ---
 
